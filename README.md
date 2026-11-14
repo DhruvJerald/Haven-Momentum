@@ -31,5 +31,3 @@ TEAM + CREDITS
 • Dhruv Jerald: Artwork (characters, UI, parallax background), half of the code, created the GitHub repository
 
 Built with Godot Game Engine.
-
-Built with Godot Game Engine.
