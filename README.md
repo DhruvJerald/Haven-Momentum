@@ -25,6 +25,7 @@ THE THEME
 Every setback makes your comeback stronger. The more momentum you lose, the harder you can slam... and the higher you bounce back.
 
 TEAM + CREDITS
+
 • Manan Sai: Coding, game development in Godot, exporting
 • Dhruv Jerald: Artwork (characters, UI, parallax background), half of the code, created the GitHub repository
 
